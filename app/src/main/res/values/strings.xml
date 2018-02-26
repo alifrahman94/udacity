@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">movie</string>
+    <string name="UDACITY">Movies</string>
+    <string name="HomeFrontEnd">Pop Movies</string>
+    <string name="detail_movie">Detail_Movie</string>
+    <string name="judul">JUDUL</string>
+    <string name="reload">Refresh</string>
+    <string name="popular">Popularity</string>
+    <string name="rate_movie">Top Rated</string>
+    <string name="exitapp">Close</string>
+    <string name="menu">Menu</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorToolbar">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <item
+        android:id="@+id/refresh"
+        android:orderInCategory="1"
+        android:title="@string/reload"
+        app:showAsAction="always"
+        android:textStyle="bold"
+        android:textColor="@color/colorWhite"
+        android:background="@color/colorDivider"
+        android:visible="false"/>
+    <item
+        android:textStyle="bold"
+        android:textColor="@color/colorWhite"
+        android:background="@color/colorDivider"
+        android:id="@+id/exitapp"
+        android:orderInCategory="4"
+        android:title="@string/exitapp"
+        app:showAsAction="never" />
+</menu>
