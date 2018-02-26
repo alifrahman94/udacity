@@ -1,5 +1,5 @@
 Movie App
-================
+=========
 
 Aplikasi ini adalah aplikasi yang bisa menampilkan list film box office.
 Mendapatkan data list film dari API themoviedb.org
@@ -22,3 +22,4 @@ MIT. See the [LICENSE][3] file for details.
 [1]: http://indonesiaandroidkejar.id/
 [2]: https://github.com/alifrahman94	
 [3]: https://github.com/alifrahman94/blob/master/LICENSE
+
